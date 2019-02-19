@@ -1,5 +1,5 @@
 =========
-myproject
+cool project
 =========
 
 
